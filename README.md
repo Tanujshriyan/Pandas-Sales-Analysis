@@ -1,7 +1,7 @@
 # Pandas-Sales-Analysis
 
 ### Objective
-Upon initial insepection of the data, we can start thinking of some questions about it that we would want to answer.\
+Upon initial insepection of the data, we can start thinking of some questions about it that we would want to answer.
 - What is the overall sales trend?
 - What are the top 10 products by sales?
 - What are the most selling products?
